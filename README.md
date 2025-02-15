@@ -1,8 +1,6 @@
-## SALES ANALYSIS REPORT - Insights & Recommendations
+## ORDERS SALES ANALYSIS REPORT - Insights & Recommendations
 
 This report provides a comprehensive overview of sales performance, broken down by key segments, date, sub-categories, and regions.  The visualization of the data allows us to identify key trends, strengths, weaknesses, and areas for improvement.
-
-## SALES ANALYSIS REPORT - Insights & Recommendations
 
 **Dataset Information:**
 
