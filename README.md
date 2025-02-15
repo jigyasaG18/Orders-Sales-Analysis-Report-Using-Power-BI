@@ -2,6 +2,8 @@
 
 This report provides a comprehensive overview of sales performance, broken down by key segments, date, sub-categories, and regions.  The visualization of the data allows us to identify key trends, strengths, weaknesses, and areas for improvement.
 
+![Orders Sales Analysis Report Using Power BI Dashboard](https://github.com/user-attachments/assets/5a956494-c79c-43ee-acea-ff44ab23d296)
+
 **Dataset Information:**
 
 The dataset consists of transactional data for an office supply company, capturing various aspects of sales, customers, regions, and products. The dataset includes the following key columns:
